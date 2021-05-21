@@ -4,8 +4,7 @@
   "description": "simple app for testing mocha",
   "main": "app.js",
   "scripts": {
-    "test": "mocha './test/**/*.spec.js'",
-    "test2": "node_modules/.bin/cypress open"
+    "test": "node_modules/.bin/cypress open"
   },
   "author": "",
   "license": "ISC",

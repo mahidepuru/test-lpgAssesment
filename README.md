@@ -11,7 +11,7 @@ step 3 : And npm i
 
 Step 4 : Once clone and navigate to the location and run the below command to run the test
 
-npm run test
+         npm run test
 
 Step 5 : cypress window opens click on run all tests
 
