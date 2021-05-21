@@ -1,0 +1,8 @@
+{
+  "projectId": "1.0",
+    "viewportWidth": 1000,
+    "viewportHeight": 660,
+    "defaultCommandTimeout": 10000,
+    "chromeWebSecurity": false
+  
+  }
